@@ -6,4 +6,4 @@ Pipelines for analyzing the genomics data from National Human Genome Research In
 We would release the source code for our python package once our paper passes the peer review.
 
 ## Acknowledgement
-This is the joint work by [Lin Lab](https://content.sph.harvard.edu/xlin/) at Harvard Department of Biostatistics and [Neale Lab](http://www.nealelab.is/) at Broad Institute. 
+This is the joint work by [Lin Lab](https://content.sph.harvard.edu/xlin/) at Harvard Department of Biostatistics and [Neale Lab](http://www.nealelab.is/) at the Broad Institute. 
